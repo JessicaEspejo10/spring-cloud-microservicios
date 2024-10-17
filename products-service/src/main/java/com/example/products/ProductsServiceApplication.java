@@ -1,4 +1,4 @@
-package com.example.products_service;
+package com.example.products;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
